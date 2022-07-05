@@ -1,1 +1,2 @@
-# First_Bash_Script
+Implemented some basic linux shell scripting concept
+ 
